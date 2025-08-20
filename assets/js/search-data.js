@@ -369,16 +369,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-entitled-an-efficient-feature-preserving-image-denoising-algorithm-based-on-a-spatial-fractional-anisotropic-diffusion-equation-has-been-accpecpted-by-east-asian-journal-on-applied-mathematics-check-this-page-to-view-the-full-manuscript",
+          title: 'Our paper entitled An Efficient Feature-Preserving Image Denoising Algorithm Based on a Spatial-Fractional...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
