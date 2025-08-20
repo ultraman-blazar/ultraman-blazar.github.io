@@ -6,7 +6,6 @@ related_posts: false
 ---
 
 We are delighted to share that our paper entitled **An Efficient Feature-Preserving Image Denoising Algorithm Based on a Spatial-Fractional Anisotropic Diffusion Equation** has been accepted by the East Asian Journal on Applied Mathematics.
-
- 
+<br><br>
 
 Check this [page](https://global-sci.com/article/82537/an-efficient-feature-preserving-image-denoising-algorithm-based-on-a-spatial-fractional-anisotropic-diffusion-equation) to view the official paper.
