@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As an R&D Scientist at Ubisoft La Forge, I specialize in Machine Learning, Computer Vision, and Computer Graphics, with a strong focus on advancing the frontiers of game asset creation. My work spans low-level image processing, high-level vision tasks, and the application of diffusion models, all aimed at developing innovative technologies for asset generation and processing.
+As an **R&D Scientist** at **Ubisoft La Forge**, I specialize in **Machine Learning**, **Computer Vision**, and **Computer Graphics**, with a strong focus on advancing the frontiers of game asset creation. My work spans **low-level image processing**, **high-level vision tasks**, and the application of **diffusion models**, all aimed at developing innovative technologies for asset generation and processing.
 
-I expertise in AI-Generated Content (AIGC) and high-fidelity asset processing to achieve production-ready quality. My passion lies in applied research: identifying real-world production challenges, designing novel solutions, and deploying these innovations into practical tools and workflows to enable more refined and controllable asset generation.
+I expertise in **AI-Generated Content (AIGC)** and **high-fidelity asset processing** to achieve production-ready quality. My passion lies in applied research: identifying real-world production challenges, designing novel solutions, and deploying these innovations into practical tools and workflows to enable more refined and controllable asset generation.
 
 Additionally, I mentor research students during their internships in these fast-evolving fields. We are always eager to collaborate with motivated Master’s and PhD students who are enthusiastic about contributing to cutting-edge work in generative models and image processing.
