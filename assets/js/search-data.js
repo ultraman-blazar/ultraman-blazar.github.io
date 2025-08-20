@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-news",
+  },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -441,18 +441,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=ixhm71wAAAAJ&hl", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/ultraman-blazar", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/maoyuan-xu-a963191aa", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ultraman-blazar", "_blank");
         },
       },{
       id: 'light-theme',
