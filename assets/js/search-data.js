@@ -369,8 +369,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-entitled-an-efficient-feature-preserving-image-denoising-algorithm-based-on-a-spatial-fractional-anisotropic-diffusion-equation-has-been-accpecpted-by-east-asian-journal-on-applied-mathematics-check-this-page-to-view-the-full-manuscript",
-          title: 'Our paper entitled An Efficient Feature-Preserving Image Denoising Algorithm Based on a Spatial-Fractional...',
+            },},{id: "news-we-are-pleased-to-present-zoobuilder-a-novel-framework-for-generating-synthetic-training-data-for-2d-and-3d-animal-pose-estimation-this-work-has-been-accepted-to-the-showcase-track-of-sca-2020-acm-siggraph-eurographics-symposium-on-computer-animation-the-full-paper-is-available-here",
+          title: 'We are pleased to present ZooBuilder, a novel framework for generating synthetic training...',
+          description: "",
+          section: "News",},{id: "news-we-are-delighted-to-share-that-our-paper-entitled-an-efficient-feature-preserving-image-denoising-algorithm-based-on-a-spatial-fractional-anisotropic-diffusion-equation-has-been-accepted-by-the-east-asian-journal-on-applied-mathematics-check-this-page-to-view-the-official-paper",
+          title: 'We are delighted to share that our paper entitled An Efficient Feature-Preserving Image...',
+          description: "",
+          section: "News",},{id: "news-our-paper-entitled-nfcnn-toward-a-noise-fusion-convolutional-neural-network-for-image-denoising-proposes-a-noise-fusion-convolutional-neural-network-nfcnn-designed-for-image-denoising-compared-to-existing-methods-nfcnn-demonstrates-a-notable-advantage-in-preserving-texture-details-this-work-has-been-accepted-for-publication-in-signal-image-and-video-processing-a-journal-published-by-springer-the-offcial-full-paper-is-available-here",
+          title: 'Our paper, entitled NFCNN: Toward a Noise Fusion Convolutional Neural Network for Image...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
